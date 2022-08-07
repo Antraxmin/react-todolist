@@ -5,7 +5,7 @@ function App() {
   return (
     <main>
       <input type="text"/>
-        <button></button>
+        <button>추가</button>
     </main>
   );
 }
